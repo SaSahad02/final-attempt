@@ -1,0 +1,10 @@
+body {
+    background-color: azure;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+p {
+    font-weight: 800;
+    font-size: x-large;
+}
